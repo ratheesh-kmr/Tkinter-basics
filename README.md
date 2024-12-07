@@ -16,10 +16,6 @@ Well-commented for easy understanding
 Customizable to suit various needs
 Getting Started:
 
-Clone the repository:
-Bash
-
-git clone https://github.com/your_username/simple_tkinter_app.git
 Install dependencies:
 Bash
 
